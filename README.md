@@ -2,6 +2,9 @@
 
 A fully referenced feasibility study for a solar-powered, self-governing floating town for 20 to 40 families: law, politics, engineering, systems, cost and choice of host country.
 
+![AI-generated impression of the floating village](study/images/01-village-aerial.jpg)
+*AI-generated impression of the reference village.*
+
 **Read it online: https://ts00.github.io/oceanlife/**
 
 ## The short answer

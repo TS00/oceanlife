@@ -2,6 +2,9 @@
 
 *Could a group of 20 to 30 families build their own floating country: acres of solar-powered town with houses, gardens and public space? This study works through the law, politics, engineering, systems and money, with every non-obvious claim referenced.*
 
+![Aerial impression of the floating village in a sheltered tropical bay](images/01-village-aerial.jpg)
+*AI-generated impression of the reference village. Images throughout the study are illustrations, not design drawings.*
+
 ## The short answer
 
 **You cannot build a floating country, but you can build a floating, self-governing village.**
@@ -29,6 +32,29 @@ Start with the [synthesis and verdict](08-synthesis-and-verdict.md).
 | 07 | [A cheaper, denser village](07-accessible-variant.md) | Amber | 47 |
 | 08 | [Synthesis and verdict](08-synthesis-and-verdict.md) | Amber | 4 (plus chapters) |
 
+## What it might look like
+
+![Seawater swimming lagoon at the edge of the platform](images/02-swimming-lagoon.jpg)
+A netted seawater swimming lagoon set into the platform edge, with timber decking and a shallow children's area.
+
+![Waterfront homes on the platform edge](images/03-waterfront-homes.jpg)
+Waterfront homes along the outer edge. The concrete hull wall in the foreground stands about 3 m above the water, matching the reference design's freeboard of about 3.1 m.
+
+![Car-free lane of townhouses under a solar canopy](images/04-inland-homes.jpg)
+A car-free interior lane of terraced townhouses, the typology Village 40 uses, under the PV canopies needed to keep the village at least 97% solar. Planting is in containers to respect the deck-load budget.
+
+![Central park and community pavilion](images/05-park-and-gardens.jpg)
+The central park, playground and community pavilion. Public open space is about 50 m² per resident in the reference design and 27.5 m² in Village 40.
+
+![Greenhouse with hydroponic towers and container orchard](images/06-growing-areas.jpg)
+The greenhouse: hydroponic towers, trellised crops and a small aquaponics tank, with a container orchard beyond. Even 2,000 m² of growing area supplies only about 6% of calories, though most fresh vegetables.
+
+![Desalination and water treatment room inside the hull](images/07-water-systems.jpg)
+The plant room inside the hull: three small reverse-osmosis trains (one spare), potable storage, UV treatment and a membrane bioreactor for wastewater, sized for about 38 m³ of water a day.
+
+![Battery enclosures, rooftop solar and solar canopies](images/08-power-systems.jpg)
+Energy systems: LFP battery enclosures and a backup-generator housing on a fenced corner of the deck, solar on every roof, and PV canopies over paths. The study recommends wider fire separation between battery enclosures than shown here.
+
 ## How this was made, and its limits
 
 This study was researched and drafted in November 2026 with the help of AI research agents, each working one domain from the shared [design basis](00-design-basis.md), then reconciled by a lead author. Where chapters priced the same item differently, the synthesis says which figure it uses and why.
@@ -38,5 +64,7 @@ Quality checks applied:
 - Every footnote marker resolves to a reference, and every reference carries a URL and access date.
 - All ~600 reference URLs were checked automatically. Dead links were replaced with Internet Archive copies. A minority of sites (mainly news and journal publishers) block automated checks; those were not individually re-opened.
 - The most surprising or recent claims (for example Próspera's reduced arbitration claim, Oceanix Busan's cost growth, and the January 2026 Panama ports ruling) were re-checked against primary sources.
+
+The images are AI-generated impressions written from the study's design, not engineering drawings.
 
 It is **not** professional engineering, legal, tax or investment advice. Figures marked as estimates or judgements are exactly that. Corrections are welcome as issues or pull requests.

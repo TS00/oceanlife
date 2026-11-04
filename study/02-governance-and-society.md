@@ -186,6 +186,9 @@ Children are about a third of the launch population and did not consent to the c
 
 ## 4. Social sustainability
 
+![Central park and community pavilion](images/05-park-and-gardens.jpg)
+*AI-generated impression, not a design drawing.* The central park, playground and community pavilion. Public open space is about 50 m² per resident in the reference design and 27.5 m² in Village 40.
+
 ### 4.1 Demographics and the teenage problem
 
 Tristan educates children to 16, then they board in the UK or South Africa if they want more[^69]. Pitcairn's children usually leave at 13, and many do not return[^70]. About 35 children aged 0 to 17 means two or three teenagers finishing each year, each one a family deciding whether to follow. Our judgement: plan for **families leaving when their eldest reaches 14 to 16** and recruit to offset it. Practical responses are a site within a daily ferry ride of a good secondary school (archetype 1); three to four teachers; blended online secondary courses (contested, as the Croydon micro-school plan showed[^28]); and a deliberate age mix, because the second generation decides survival[^41][^48].
@@ -260,6 +263,9 @@ Mitigations: bank through a regulated host-state institution with full KYC; publ
 ---
 
 ## 6. Who would actually move?
+
+![Seawater swimming lagoon at the edge of the platform](images/02-swimming-lagoon.jpg)
+*AI-generated impression, not a design drawing.* A netted seawater swimming lagoon set into the platform edge, with timber decking and a shallow children's area.
 
 | Segment | Likely share (judgement) | Needs | Risk |
 |---|---|---|---|

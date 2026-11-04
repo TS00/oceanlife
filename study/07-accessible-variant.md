@@ -150,6 +150,9 @@ Spreading the school, plant, governance, insurance minimums and staff over more 
 
 ## 3. The recommended variant: Village 40
 
+![Car-free lane of townhouses under a solar canopy](images/04-inland-homes.jpg)
+*AI-generated impression, not a design drawing.* A car-free interior lane of terraced townhouses, the typology Village 40 uses, under the PV canopies needed to keep the village at least 97% solar. Planting is in containers to respect the deck-load budget.
+
 ### 3.1 Definition
 
 | Parameter | Reference ([08](08-synthesis-and-verdict.md)) | **Village 40** |

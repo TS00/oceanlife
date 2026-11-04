@@ -20,6 +20,9 @@ The pattern is clear: **the engineering is the easy part.** Floating concrete, s
 
 ## The reference project: "chartered floating village"
 
+![Aerial impression of the floating village in a sheltered tropical bay](images/01-village-aerial.jpg)
+*AI-generated impression, not a design drawing.* The village in a sheltered Panama-style bay: two-storey solar-roofed homes around a central park, a greenhouse, a marina and a netted swimming lagoon, inside a floating wave attenuator. The reference design is a square 150 × 150 m raft of nine 50 × 50 m concrete modules; the image takes some liberties with the outline.
+
 | Element | Recommendation | Source |
 |---|---|---|
 | Legal form | Ratified host-state agreement; 75 to 99 year water-space concession; special-zone statute devolving civil and commercial law (ADGM-style); narrow stabilisation clause; international arbitration; contractual right to tow away | [01 §7](01-legal.md) |

@@ -159,6 +159,9 @@ Phase 2 needs about 2,100 kWp, or about 11,000 m² of PV surface. That works onl
 
 ## 4. Storage
 
+![Battery enclosures, rooftop solar and solar canopies](images/08-power-systems.jpg)
+*AI-generated impression, not a design drawing.* Energy systems: LFP battery enclosures and a backup-generator housing on a fenced corner of the deck, solar on every roof, and PV canopies over paths. The study recommends wider fire separation between battery enclosures than shown here.
+
 ### 4.1 Method
 
 The hourly model runs the Phase 1 load profile against 19 years of PVGIS hourly output. The PV output is derated as in Section 3.2. Assumptions:
@@ -321,6 +324,9 @@ It is honest to describe the town as **"solar-powered, with a renewable-fuel saf
 
 ## 6. Water
 
+![Desalination and water treatment room inside the hull](images/07-water-systems.jpg)
+*AI-generated impression, not a design drawing.* The plant room inside the hull: three small reverse-osmosis trains (one spare), potable storage, UV treatment and a membrane bioreactor for wastewater, sized for about 38 m³ of water a day.
+
 ### 6.1 Demand
 
 The WHO classes "optimal access", meaning multiple taps and continuous supply, as more than 100 L per person per day. Its "basic access" level of about 20 L/day covers drinking, cooking and handwashing only.[^45] Singapore households used 142 L per person per day in 2024, against a 2030 target of 130 L.[^46] This chapter designs for **130 L per person per day of domestic use**, with water-efficient fittings.
@@ -437,6 +443,9 @@ The world generated 2.56 billion tonnes of municipal waste in 2022, about 0.9 kg
 ---
 
 ## 8. Food
+
+![Greenhouse with hydroponic towers and container orchard](images/06-growing-areas.jpg)
+*AI-generated impression, not a design drawing.* The greenhouse: hydroponic towers, trellised crops and a small aquaponics tank, with a container orchard beyond. Even 2,000 m² of growing area supplies only about 6% of calories, though most fresh vegetables.
 
 ### 8.1 Calorie arithmetic
 

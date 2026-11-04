@@ -214,6 +214,9 @@ Oceanix proposes 2-ha hexagonal "neighbourhoods" for up to 300 residents, cluste
 
 ## 3. Recommended concept and reference design
 
+![Waterfront homes on the platform edge](images/03-waterfront-homes.jpg)
+*AI-generated impression, not a design drawing.* Waterfront homes along the outer edge. The concrete hull wall in the foreground stands about 3 m above the water, matching the reference design's freeboard of about 3.1 m.
+
 ### 3.1 By archetype
 
 - **Sheltered host waters (recommended):** modular concrete caissons (a), arranged compactly as in (f). Pile or short-chain mooring, plus a light floating wave attenuator on the fetch-facing sides.
