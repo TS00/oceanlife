@@ -1,0 +1,58 @@
+site_name: "Oceanlife: a floating town feasibility study"
+site_description: A fully referenced feasibility study for a solar-powered, self-governing floating village for 20 to 40 families.
+site_url: https://ts00.github.io/oceanlife/
+repo_url: https://github.com/TS00/oceanlife
+repo_name: TS00/oceanlife
+docs_dir: study
+edit_uri: edit/main/study/
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: blue grey
+      accent: teal
+      toggle:
+        icon: material/weather-night
+        name: Dark mode
+    - scheme: slate
+      primary: blue grey
+      accent: teal
+      toggle:
+        icon: material/weather-sunny
+        name: Light mode
+  features:
+    - navigation.instant
+    - navigation.top
+    - navigation.footer
+    - toc.follow
+    - search.highlight
+    - content.action.edit
+
+nav:
+  - Home: index.md
+  - 00 Design basis: 00-design-basis.md
+  - 01 Legal status: 01-legal.md
+  - 02 Governance and society: 02-governance-and-society.md
+  - 03 Site and structure: 03-site-and-structure.md
+  - 04 Systems: 04-systems.md
+  - 05 Cost and economics: 05-cost-and-economics.md
+  - 06 Host countries: 06-host-countries.md
+  - 07 A cheaper village: 07-accessible-variant.md
+  - 08 Synthesis and verdict: 08-synthesis-and-verdict.md
+
+markdown_extensions:
+  - footnotes
+  - tables
+  - admonition
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
+  - pymdownx.superfences
+  - pymdownx.magiclink
+
+validation:
+  links:
+    not_found: warn
+    anchors: warn
